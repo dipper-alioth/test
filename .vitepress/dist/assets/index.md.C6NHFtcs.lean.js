@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CIMkMmg8.js";const m=JSON.parse('{"title":"首页","description":"","frontmatter":{"title":"首页","index":true},"headers":[],"params":{"index":"index"},"relativePath":"index.md","filePath":"[index].md"}'),n={name:"index.md"};function r(i,d,o,s,c,p){return a(),t("div")}const x=e(n,[["render",r]]);export{m as __pageData,x as default};

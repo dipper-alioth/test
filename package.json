@@ -1,0 +1,23 @@
+{
+  "name": "vitepress-blog",
+  "version": "1.0.0",
+  "private": true,
+  "author": "星蘅",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "markdown-it-task-lists": "^2.1.1",
+    "vitepress-theme-async": "0.0.28"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vitepress": "^1.1.0"
+  }
+}
