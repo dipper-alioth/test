@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress-theme-async/config'
 export default defineConfig({
   cleanUrls: true,
   // base: '/docs',
+  base: '/test',
   outDir: './dist',
   //   vite: {
   //     css: {
