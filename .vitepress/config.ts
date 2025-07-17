@@ -5,7 +5,7 @@ export default defineConfig({
   cleanUrls: true,
   // base: '/docs',
   base: '/test',
-  outDir: './dist',
+  // outDir: './dist',
   //   vite: {
   //     css: {
   //       preprocessorOptions: {

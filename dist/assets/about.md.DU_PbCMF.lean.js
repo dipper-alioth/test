@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.BU4qkTab.js";const u=JSON.parse('{"title":"关于我","description":"","frontmatter":{"title":"关于我","layout":"about"},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),o={name:"about.md"};function r(s,c,n,i,p,_){return a(),e("div")}const l=t(o,[["render",r]]);export{u as __pageData,l as default};

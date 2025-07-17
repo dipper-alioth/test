@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.BU4qkTab.js";const d=JSON.parse('{"title":"友链","description":"","frontmatter":{"title":"友链","layout":"links","single_column":true},"headers":[],"relativePath":"links.md","filePath":"links.md"}'),s={name:"links.md"};function a(o,r,i,c,l,_){return n(),t("div")}const m=e(s,[["render",a]]);export{d as __pageData,m as default};
