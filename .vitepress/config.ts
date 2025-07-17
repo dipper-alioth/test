@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress-theme-async/config'
 
 export default defineConfig({
   cleanUrls: true,
-  base: '/docs',
-  // outDir: './dist/docs',
+  // base: '/docs',
+  outDir: './dist',
   //   vite: {
   //     css: {
   //       preprocessorOptions: {
